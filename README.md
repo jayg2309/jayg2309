@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayg2309&label=Profile%20views&color=0e75b6&style=flat" alt="jayg2309" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **jaygondaliya2309@gmail.com**
 
